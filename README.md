@@ -5,7 +5,8 @@ Seja bem vindo ao meu repositorio!
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zLeandroAlmeida)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xxlean_dro)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLeggi&show_icons=true&theme=dark)![cat (1)](https://user-images.githubusercontent.com/108540403/176955850-c16c7d4b-edf6-4609-bc98-12a44bdc8877.gif)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLeggi&show_icons=true&theme=dark)![cat (1)](https://user-images.githubusercontent.com/108540403/176956011-5786cca3-a1f5-4554-babe-396e937483fd.gif)
+
 
 
 
