@@ -1,12 +1,13 @@
 # Olá! Eu sou Leandro!
-
 Seja bem vindo ao meu repositorio!
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zleandroalmeida)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zLeandroAlmeida)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xxlean_dro)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLeggi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zLeggi&show_icons=true&theme=dark)![cat (1)](https://user-images.githubusercontent.com/108540403/176955850-c16c7d4b-edf6-4609-bc98-12a44bdc8877.gif)
+
+
 
 <h2> Tecnologias em processo de aprendizagem</h2>
 
@@ -18,5 +19,4 @@ Seja bem vindo ao meu repositorio!
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Badge da tecnologia React.js">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Badge da tecnologia Python">
 </div>
-
 
